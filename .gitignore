@@ -1,0 +1,2 @@
+#This file lists files we want git to ignore in the version control process
+*.csv
